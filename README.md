@@ -48,10 +48,10 @@ Enable CGI and Common HTTP Features, and IIS Management Console.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP: Download and install PHP Manager for IIS. Download and install PHP (e.g., PHP 7.3.8) and place it in C:\PHP.
-Install VC Redist (Visual C++ Redistributable) if required.
-Install MySQL: Download and install MySQL Server.
-Set a root password for MySQL during installation.
+-Install PHP: Download and install PHP Manager for IIS. Download and install PHP (e.g., PHP 7.3.8) and place it in C:\PHP.
+-Install VC Redist (Visual C++ Redistributable) if required.
+-Install MySQL: Download and install MySQL Server.
+-Set a root password for MySQL during installation.
 </p>
 <br />
 
