@@ -16,7 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 - Windows 10</b> (21H2)
-<h2>Getting Started </h2>
+<h2>⚙️Getting Started </h2>
 
 <h2>List of Prerequisites</h2>
 
