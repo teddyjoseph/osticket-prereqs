@@ -23,12 +23,14 @@ Outlining the necessary software, download steps, and initial installation to ge
 - MySQL User Privileges: The MySQL user must have full privileges on the database
 - osTicket Download: [osTicket Official Site](https://osticket.com/download)
 
+
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot 2024-10-20 105725](https://github.com/user-attachments/assets/c4f9a76d-52e1-4d04-b50e-5ebc8f504813)
+
+
+
+
 Create a Virtual Machine: Go to the Azure portal and create a new VM.
 Choose a Windows Server image and configure the VM with the necessary resources (CPU, RAM, etc.).
 </p>
