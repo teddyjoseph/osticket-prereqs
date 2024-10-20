@@ -22,15 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Log into the VM with Remote Desktop
-- Within the VM (osticket-vm), download and unzip osTicket-Installation-Files.zip  onto your desktop.
-- Install / Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CGI
-- From the “osTicket-Installation-Files” folder, install PHP Manager for IIS
-- install the Rewrite Module
-- Create the directory C:\PHP
-
-  
+- Web Server: Apache, Nginx or Iss
+- PHP: Version 8.1 - 8.2 (8.2 recommended)
+- MySQL: Version 5.0 or higher
+- MySQL Database: A database with a valid user, password, and hostname
+- MySQL User Privileges: The MySQL user must have full privileges on the database
+- osTicket Download: [osTicket Official Site](https://osticket.com/download)
 
 <h2>Installation Steps</h2>
 
